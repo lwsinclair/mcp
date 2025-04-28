@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/appwrite-mcp-badge.jpg)](https://mseep.ai/app/appwrite-mcp)
+
 # AWS MCP Servers
 
 A suite of specialized MCP servers that help you get the most out of AWS, wherever you use MCP.
