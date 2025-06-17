@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/octoeverywhere-mcp-badge.png)](https://mseep.ai/app/octoeverywhere-mcp)
+
 # AWS MCP Servers
 
 A suite of specialized MCP servers that help you get the most out of AWS, wherever you use MCP.
