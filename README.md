@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/twilio-labs-mcp-badge.png)](https://mseep.ai/app/twilio-labs-mcp)
+
 # AWS MCP Servers
 
 A suite of specialized MCP servers that help you get the most out of AWS, wherever you use MCP.
